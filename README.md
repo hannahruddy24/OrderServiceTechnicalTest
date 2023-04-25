@@ -24,7 +24,7 @@ Then simply running the Order Service through IISExpress will bring up a swagger
 
 ## ENDPOINTS:
 
-```http Post /PlaceOrder/ ```
+```http Post /Order/ ```
 
 Json Example 
 ```javascript
